@@ -4,7 +4,7 @@
 ### 🙇 안녕하세요, Backend Programmer로 성장해나가고 있는 EdenKwon입니다
 
 
-![image](https://github.com/EdenKwon/EdenKwon/assets/126738199/ea52debc-1e56-4f8b-886d-0f8afcbf6aca)
+[![image](https://github.com/EdenKwon/EdenKwon/assets/126738199/ea52debc-1e56-4f8b-886d-0f8afcbf6aca)](https://blog.kakaocdn.net/dn/rprSO/btsHmQB4vhF/LQ7IYBQXYVdylNaNhg26cK/img.gif)
 
 
 
