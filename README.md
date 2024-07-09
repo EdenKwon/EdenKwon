@@ -4,8 +4,6 @@
 ### 🙇 안녕하세요, Backend Programmer로 성장해나가고 있는 EdenKwon입니다
 
 
-[![image](https://github.com/EdenKwon/EdenKwon/assets/126738199/ea52debc-1e56-4f8b-886d-0f8afcbf6aca)](https://blog.kakaocdn.net/dn/rprSO/btsHmQB4vhF/LQ7IYBQXYVdylNaNhg26cK/img.gif)
-
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
